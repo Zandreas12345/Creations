@@ -7,15 +7,15 @@ My name is Andrew Ziakas and I am just a student at DIT UoI (Arta). I prefer the
 * Core Interests:
   
    1. 🌐 **Networking :** Building clean, logical topologies                            (Current project: A simple MAN with shops,houses and the ISP)
-   2. 
-   3. 🗄️ **Databases  :** Organizing data with the same strategy a coach builds a team  (Current project: **AEK FC Database** 🟡⚫).
+  
+   2. 🗄️ **Databases  :** Organizing data with the same strategy a coach builds a team  (Current project: **AEK FC Database** 🟡⚫).
 
   
 * Attributes:
   
   1. 🦅 **Team Spirit     :** I believe in "Enosis". Working with others is like a football match; communication and collaboration are the keys to victory.
-  2. 
-  3. 📐 **Detail Oriented :** I like clean cable management and structured documentation.
+     
+  2. 📐 **Detail Oriented :** I like clean cable management and structured documentation.
 
   
 * Skills:
