@@ -1,6 +1,6 @@
 #  My name is Optimus.... not really, it's Andrew!
 
-My name is Andrew Ziakas and I am just a student at DIT UoI (Arta). I prefer the precision of a perfectly wired rack over the chaos of complex code.
+I'm Andrew Ziakas and I am just a student at DIT UoI (Arta). I prefer the precision of a perfectly wired rack over the chaos of complex code.
 
 * Current Status: Studying...(4th Semester)📚
 
@@ -15,7 +15,7 @@ My name is Andrew Ziakas and I am just a student at DIT UoI (Arta). I prefer the
   
 * Attributes:
   
-  1. 🦅 **Team Spirit     **
+  1. 🦅 **Team Spirit**
      
   2. 📐 **Detail Oriented :** I like clean cable management and structured documentation.
 
