@@ -1,4 +1,4 @@
-#  My name is Optimus.... not really, it's Andrew!
+#  Hello there!!!
 
 I'm Andrew Ziakas and I am just a student at DIT UoI (Arta). I prefer the precision of a perfectly wired rack over the chaos of complex code.
 
