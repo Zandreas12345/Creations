@@ -2,7 +2,7 @@
 
 I'm Andrew Ziakas and I am just a student at DIT UoI (Arta). I prefer the precision of a perfectly wired rack over the chaos of complex code.
 
-* Current Status: Studying...(4th Semester)📚
+* Current Status: Studying...(5th Semester)📚
 
 * Core Interests:
   
@@ -10,7 +10,7 @@ I'm Andrew Ziakas and I am just a student at DIT UoI (Arta). I prefer the precis
        -(Current project: A simple MAN with shops,houses and the ISP)
   
    3. 🗄️ **Databases  :** Organizing data...
-       -(Current project: **Football Database**).
+       -(Finished project: **Football Database**).
 
   
 * Attributes:
